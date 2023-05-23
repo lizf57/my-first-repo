@@ -7,3 +7,9 @@ cd <directory-name> - change directory and the name of folder you want to move t
 mkdir <directory-name>  - make directory
 
 touch <filename> - creates files
+
+CMD + C - copy to clipboard
+
+CMD + V - paste 
+
+CMD + S - save file
